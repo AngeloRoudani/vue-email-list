@@ -6,6 +6,7 @@
 
 .container {
     width: 1000px;
+    height: 100vh;
     margin: auto;
     padding-top: 100px;
     background-color: black;
@@ -19,4 +20,8 @@ h1 {
 .email_list {
     list-style: none;
     color: white;
+}
+
+li {
+    padding: 15px 0 0 10px;
 }
